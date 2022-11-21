@@ -2,10 +2,7 @@ const texto1object= document.getElementById("texto1")
 const texto2object = document.getElementById("texto2")
 const tabelaObject = document.getElementById("tabelaId")
 
-
 removerObjetoDaTela(texto2object);
-
-
 
 function funcaoAoClicar() {
     removerObjetoDaTela(texto1object);
